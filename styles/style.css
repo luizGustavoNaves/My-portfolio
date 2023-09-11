@@ -121,6 +121,7 @@ body {
     padding: 18px;
     font-weight: 400;
     position: absolute;
+    margin-top: 10%;
     width: 100%;
 }
 
@@ -163,6 +164,11 @@ body {
    .rodape {
     width: auto;
    position: relative;
+
+   .rodape__sobre__mim {
+    width: auto;
+   position: relative;
+    }
    }
 }
 
