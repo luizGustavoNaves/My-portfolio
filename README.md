@@ -10,7 +10,7 @@ Consta nesse projeto além de colocar em prática o devido conhecimento, apresen
 
 ![Web 2](https://github.com/luizGustavoNaves/My-portfolio/blob/main/assets/foto-portifolio-sobre-mim.PNG)
 
-![Web 3](https://github.com/luizGustavoNaves/My-portfolio/blob/main/assets/foto-portifolio-foto-curriculo.PNG)
+![Web 3](https://github.com/luizGustavoNaves/My-portfolio/blob/main/assets/foto-curriculo.PNG)
 
 # Tecnologias utilizadas
 ## Front end
