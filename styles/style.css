@@ -25,6 +25,9 @@ body {
 
 .destaque__titulo {
     color:var(--cor-tercearia);
+    text-decoration: none;
+    font-weight: 400;
+   
 }
 
 .layout__pagina{
@@ -50,7 +53,7 @@ body {
 }
 
 .texto {
-    font-family: var(--font-secundaria) ;
+    font-family: var(--font-secundaria);
     font-size: 1rem;
     color: var(--cor-hover);
 }
@@ -115,10 +118,22 @@ body {
     color:var(--cor-primaria);
     background-color: var(--cor-tercearia);
     text-align: center;
-    padding: 14px;
+    padding: 18px;
     font-weight: 400;
     position: absolute;
-    bottom: 0%;
+    width: 100%;
+}
+
+.rodape__sobre__mim{ 
+    font-family: var(--font-secundaria);
+    font-size: 1rem;
+    color:var(--cor-primaria);
+    background-color: var(--cor-tercearia);
+    text-align: center;
+    padding: 18px;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 10%;
     width: 100%;
 }
 
@@ -151,3 +166,12 @@ body {
    }
 }
 
+.apresentacao__conteudo__texto a{
+    text-decoration: none;
+    color: #22D4FD;
+}
+
+.apresentacao__conteudo__texto {
+    text-decoration: none;
+    color: #22D4FD;
+}
