@@ -12,6 +12,9 @@ Consta nesse projeto além de colocar em prática o devido conhecimento, apresen
 
 ![Web 3](https://github.com/luizGustavoNaves/My-portfolio/blob/main/assets/foto-curriculo.PNG)
 
+# Executar basta clicar no link abaixo 
+https://my-portfolio-eta-teal.vercel.app/
+
 # Tecnologias utilizadas
 ## Front end
 - HTML 
