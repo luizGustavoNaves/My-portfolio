@@ -24,4 +24,4 @@ https://my-portfolio-eta-teal.vercel.app/
 
 Luiz Gustavo Naves Ferreira
 
-https://www.linkedin.com/in/luiz-gustavo-naves-f-80418a136/
+https://www.linkedin.com/in/luizgustavonaves/
